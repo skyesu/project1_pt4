@@ -21,7 +21,9 @@ body {
 }
 
 #beginning {
-    background-image: linear-gradient(navy, white);
+    background-image: url("assets/scaryeye_tenor.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
 }
 
 #middle1 {
@@ -33,10 +35,10 @@ body {
     
 }
 
-#end {
+/* #end {
     background-color: maroon;
 
-}
+} */
 
 h1 {
     font-family: "kaeru kaeru";
